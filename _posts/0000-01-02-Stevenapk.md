@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"To live will be a wonderful adventure."
 Use the left arrow to go back!
